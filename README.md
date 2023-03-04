@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahinzub" alt="mahinzub" /></a> </p>
 
-- 🔭 I’m currently working on Flutter and Mobile application development **Flutter and Mobile application development**
+- 🔭 I’m currently working on  **Flutter and Mobile application development**
 
 - 🌱 I’m currently learning **Machine learning**
 
@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with big companies **big companies**
 
-- 👨‍💻 Git Hub [GitHub](GitHub)
+- 👨‍💻  [GitHub](GitHub)
 
-- 📝 I regularly write articles on Flutter [Flutter](Flutter)
+- 📝 I regularly write articles on  [Flutter](Flutter)
 
 - 💬 Ask me about **Flutter and mobile development**
 
-- 📫 mahinzubair123@gmail.com **mahinzubair123@gmail.com**
+- 📫  **mahinzubair123@gmail.com**
 
 - 📄 i have a 2 years experience in Flutter [2 years experience in Flutter](2 years experience in Flutter)
 
